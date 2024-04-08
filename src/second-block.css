@@ -1,0 +1,35 @@
+.ready-main{
+    width: calc(100%-100px);
+    margin-inline:100px;
+}
+.ready-title{
+    width: 250px;
+    height: 120px;
+    background-color: red;
+    display: flex;
+    align-items: flex-end;
+    padding: 20px;
+    font-size: 25px;
+
+}
+.ready-main-section{
+    margin-top: 20px;
+    background-color: red;
+    padding: 20px 50px;
+    
+
+}
+.ready-main-bottom-section-left-title{
+    margin-bottom: 20px;
+    
+
+}
+.ready-main-bottom-section{
+    margin-top: 60px;
+}
+.reservation-info{
+    margin-bottom: 20px;
+}
+.reservation-info-bold{
+    margin-bottom:50px ;
+}
